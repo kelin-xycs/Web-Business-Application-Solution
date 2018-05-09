@@ -76,7 +76,8 @@ https://blog.csdn.net/bjweimengshu/article/details/78786315
 WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库
 https://github.com/dotnetcore/WebApiClient
 
-Cef ，CEF：给客户                  端内嵌一个Chrome吧  https://www.itsvse.com/thread-4102-1-1.html
+Cef ，CEF：给客户端内嵌一个Chrome吧  https://www.itsvse.com/thread-4102-1-1.html
+
 
 之后会慢慢更新。 ^ ^
 
