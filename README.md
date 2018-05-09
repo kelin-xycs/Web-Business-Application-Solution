@@ -60,6 +60,15 @@ https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651820291&idx=1&sn=a70412
 蚂蚁金服CTO程立：金融级分布式交易的技术路径
 https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651820298&idx=1&sn=e01179f16295ac1fddc3c33696845fe4&chksm=f0dcc776c7ab4e604e1d7d3171708a40331e1e0dce100579026df9b4365be1f7af0e37da5e0a&mpshare=1&scene=1&srcid=0509JF8HPfpgyAQL3orPFGXq&pass_ticket=XkwMJABPdvsBn%2F6Dky%2BMLVyhCKt55wJ1twxtjGvQgYWJEmAjjrE%2BdtRHT5jkaxtW#rd
 
+Oracle, Red Hat等大厂近期密集发布，加强支持Kubernetes
+https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247489297&idx=1&sn=ddcd1d728a7aa130e9ae950a12a17d64&chksm=e8d7e8d3dfa061c5c84f144005ea54d6ce03a73a48cd180af35bf9294615f5e01187cf0e2fc1&mpshare=1&scene=1&srcid=0507k5qY4RlrzKFodWKULXVl&pass_ticket=XkwMJABPdvsBn%2F6Dky%2BMLVyhCKt55wJ1twxtjGvQgYWJEmAjjrE%2BdtRHT5jkaxtW#rd
+
+Netty——基本使用介绍
+https://blog.csdn.net/haoyuyang/article/details/53243785
+
+小白科普：Netty有什么用？
+https://blog.csdn.net/bjweimengshu/article/details/78786315
+
 
 解决方案组件：
 
