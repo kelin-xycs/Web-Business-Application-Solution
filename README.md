@@ -54,6 +54,11 @@ https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651820298&idx=1&sn=e01179
 
 解决方案组件：
 
+
+WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库
+https://github.com/dotnetcore/WebApiClient
+
+
 之后会慢慢更新。 ^ ^
 
 
