@@ -89,6 +89,9 @@ https://www.cnblogs.com/qinjin/p/5134982.html
 https://blog.csdn.net/lx520aa/article/details/77950057
 http://www.cnblogs.com/Terrylee/archive/2006/12/03/opensource_framework_and_resource_recommendation_Log.html
 
+阿里云弹性计算
+https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492
+
 
 之后会慢慢更新。 ^ ^
 
