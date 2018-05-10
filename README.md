@@ -37,7 +37,7 @@
 
 上面是 架构。
 
-下面我们说说 部署。我们希望做出一套 虚拟机 + 容器编排 + 负载均衡 + Redis 来构建 Web 集群 的 解决方案。
+下面我们说说 部署。我们希望做出一套 虚拟机(云服务器) + 容器编排 + 负载均衡 + Redis 来构建 Web 集群 的 解决方案。
 
 接下来是 运维。根据 DevOps 的 理论，我再发展一下，就是： 开发 = 运维 。大家都是 开发人员，只不过这段时间我做 开发，你做 运维；下个月 我做 运维，你做 开发。 对不对？ ^ ^  这样就好玩了。
 
@@ -77,6 +77,17 @@ WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰�
 https://github.com/dotnetcore/WebApiClient
 
 Cef ，CEF：给客户端内嵌一个Chrome吧  https://www.itsvse.com/thread-4102-1-1.html
+
+一个 多线程 检索 文件内容 的 小程序
+https://github.com/kelin-xycs/MultiThreadFileScanner
+
+Polly.net
+待更新
+
+log4net Nlog 
+https://www.cnblogs.com/qinjin/p/5134982.html
+https://blog.csdn.net/lx520aa/article/details/77950057
+http://www.cnblogs.com/Terrylee/archive/2006/12/03/opensource_framework_and_resource_recommendation_Log.html
 
 
 之后会慢慢更新。 ^ ^
