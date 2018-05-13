@@ -63,7 +63,7 @@ Log 记录到 数据库 的 优点 是 便于 查询 分析，还可以用 报�
 WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库
 https://github.com/dotnetcore/WebApiClient
 
-一个 多线程 检索 文件内容 的 小程序
+MultiThreadFileScanner，一个 多线程 检索 文件内容 的 小程序
 https://github.com/kelin-xycs/MultiThreadFileScanner
 
 SOALog，为 SOA 架构 提供一种 松耦合 乐观 的 数据一致性 解决方案，说白了这个组件的功能就是 记录 Log 到 数据库 里，详细介绍 见 上文。
