@@ -47,14 +47,32 @@
 微服务 的 第一个 课题 就是 实现 数据一致性。SOA 也需要 解决 这个问题。
 但实际上，数据不一致 并不可怕，关键在于 清晰的 记录Log，及 提示出来，
 让 用户 和 各方 能够清楚的看到 这一笔交易 是 失败 的，问题出在了哪里，接下来要怎么处理。
-我们为此提供了一个 组件 SOALog。 SOALog 的功能就是 记录 Log 到 数据库 里。
+我们为此提供了一个 组件 SOALog。 SOALog 的功能就是 记录 Log 到 数据库 里。 见  https://github.com/kelin-xycs/SOALog
 所以，在 调用服务失败 的时候，可以用 SOALog 记录 Log 到 数据库 里。 
 Log 记录到 数据库 的 优点 是 便于 查询 分析，还可以用 报表 呈现出来。
 报表 也可以呈现给 用户和相关各方 看，作为问题处理追踪 的 一个 报表。
 总的来说，这是一种 松耦合 乐观 的 数据一致性 解决方案。
 
 
-参考资料 和 解决方案组件 如下：
+解决方案组件 和 参考资料 如下：
+
+
+解决方案组件：
+
+
+WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库
+https://github.com/dotnetcore/WebApiClient
+
+一个 多线程 检索 文件内容 的 小程序
+https://github.com/kelin-xycs/MultiThreadFileScanner
+
+SOALog，为 SOA 架构 提供一种 松耦合 乐观 的 数据一致性 解决方案，说白了这个组件的功能就是 记录 Log 到 数据库 里，详细介绍 见 上文。
+https://github.com/kelin-xycs/SOALoghttps://github.com/kelin-xycs/SOALog
+
+阿里云弹性计算
+https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492
+
+
 
 参考资料：
 
@@ -79,17 +97,7 @@ https://blog.csdn.net/haoyuyang/article/details/53243785
 小白科普：Netty有什么用？
 https://blog.csdn.net/bjweimengshu/article/details/78786315
 
-
-解决方案组件：
-
-
-WebApiClient ，一款基于HttpClient封装，只需要定义c#接口并修饰相关特性，即可异步调用远程http接口的客户端库
-https://github.com/dotnetcore/WebApiClient
-
 Cef ，CEF：给客户端内嵌一个Chrome吧  https://www.itsvse.com/thread-4102-1-1.html
-
-一个 多线程 检索 文件内容 的 小程序
-https://github.com/kelin-xycs/MultiThreadFileScanner
 
 Polly.net
 待更新
@@ -99,8 +107,8 @@ https://www.cnblogs.com/qinjin/p/5134982.html
 https://blog.csdn.net/lx520aa/article/details/77950057
 http://www.cnblogs.com/Terrylee/archive/2006/12/03/opensource_framework_and_resource_recommendation_Log.html
 
-阿里云弹性计算
-https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492
+
+
 
 
 之后会慢慢更新。 ^ ^
