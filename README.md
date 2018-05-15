@@ -80,6 +80,9 @@ https://github.com/kelin-xycs/MultiThreadFileScanner
 SOALog，为 SOA 架构 提供一种 松耦合 乐观 的 数据一致性 解决方案，说白了这个组件的功能就是 记录 Log 到 数据库 里，详细介绍 见 上文。
 https://github.com/kelin-xycs/SOALoghttps://github.com/kelin-xycs/SOALog
 
+FusingAndReTrySample， 熔断 重试 的 例子。 
+https://github.com/kelin-xycs/FusingAndReTrySample
+
 阿里云弹性计算
 https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492
 
