@@ -38,7 +38,7 @@
 上面是 架构。
 
 下面我们说说 部署。我们希望做出一套 虚拟机(云服务器) + 容器编排 + 负载均衡 + Redis 来构建 Web 集群 的 解决方案。
-有个网友提供了一套方案，可以参考：  https://github.com/kingkoo1985/docker_lnmtp
+有个网友提供了一套方案，可以参考：  centos 下docker 一键部署php和tomcat环境    https://github.com/kingkoo1985/docker_lnmtp
 
 接下来是 运维。根据 DevOps 的 理论，我再发展一下，就是： 开发 = 运维 。大家都是 开发人员，只不过这段时间我做 开发，你做 运维；下个月 我做 运维，你做 开发。 对不对？ ^ ^  这样就好玩了。
 
