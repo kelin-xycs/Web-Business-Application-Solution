@@ -119,6 +119,7 @@ O    了  。
 
 关于    ORM       和      数据操作，
 我 比较 喜欢         一个 超轻量 的  Entity 库（Active Record）    +      Sql   查询    DataTable 。  
+
 一个  超轻量 的  Entity 库，  只需要  实现  将  单笔资料  映射 到  Entity 对象， 并 实现 单笔资料  的   增删改查    就行。
 Sql  查询   DataTable  的 方式   会 很   灵活  高效，
 直观，
