@@ -208,6 +208,14 @@ https://www.cnblogs.com/qinjin/p/5134982.html
 https://blog.csdn.net/lx520aa/article/details/77950057
 http://www.cnblogs.com/Terrylee/archive/2006/12/03/opensource_framework_and_resource_recommendation_Log.html
 
+基于.NET Core 2.0 开发的跨平台支付SDK集。目前支持：支付宝(Alipay)、微信支付(WeChatPay)、QQ钱包(QPay)、京东支付(JDPay)、连连支付(LianLianPay)、银联支付(UnionPay)    
+https://github.com/Essensoft/Payment     
+
+
+支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core 2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。         
+https://github.com/dotnetcore/Alipay.AopSdk.Core
+
+
 
 
 
