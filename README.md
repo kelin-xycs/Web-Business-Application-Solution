@@ -107,10 +107,16 @@ O    了。
 其实 我 还有  一套     架构，
 叫做    “ 1  Binary ”  架构。
 1  Binary     开箱即用。
+
 怎么实现   扩展   呢  ？
 n    Deploy
+
 合起来  就是      1  Binary   +    n  Deploy     。     
-顶多 再  加 一个        缓存层，     O    了  。    
+
+顶多 再  加 一个        缓存层，   
+
+O    了  。    
+
 关于    ORM       和      数据操作，
 我 比较 喜欢         一个 超轻量 的  Entity 库（Active Record）    +      Sql   查询    DataTable 。  
 一个  超轻量 的  Entity 库，  只需要  实现  将  单笔资料  映射 到  Entity 对象， 并 实现 单笔资料  的   增删改查    就行。
